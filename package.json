@@ -1,0 +1,18 @@
+{
+  "name": "1co926-utils",
+  "version": "0.1.0",
+  "description": "KMZ -> GeoJSON and import scripts for 1co926",
+  "main": "scripts/kmz_to_geojson.js",
+  "scripts": {
+    "convert": "node scripts/kmz_to_geojson.js",
+    "import": "node scripts/import_geojson_to_firestore.js"
+  },
+  "author": "masomi79",
+  "license": "MIT",
+  "dependencies": {
+    "@tmcw/togeojson": "^0.16.0",
+    "adm-zip": "^0.5.9",
+    "xmldom": "^0.7.7",
+    "firebase-admin": "^11.11.0"
+  }
+}
