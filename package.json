@@ -10,9 +10,9 @@
   "author": "masomi79",
   "license": "MIT",
   "dependencies": {
-    "@tmcw/togeojson": "^0.16.0",
+    "togeojson": "^0.16.0",
     "adm-zip": "^0.5.9",
-    "xmldom": "^0.7.7",
+    "xmldom": "^0.6.0",
     "firebase-admin": "^11.11.0"
   }
 }
