@@ -4,12 +4,12 @@
  * Usage: node scripts/kmz_to_geojson.js input.kmz > output.geojson
  *
  * Dependencies:
- *   npm install adm-zip xmldom @tmcw/togeojson
+ *   npm install adm-zip xmldom togeojson
  */
 const fs = require('fs');
 const AdmZip = require('adm-zip');
 const { DOMParser } = require('xmldom');
-const tj = require('@tmcw/togeojson');
+const tj = require('togeojson');
 
 if (process.argv.length < 3) {
   console.error('Usage: node scripts/kmz_to_geojson.js input.kmz > output.geojson');

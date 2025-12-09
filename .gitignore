@@ -12,3 +12,5 @@ bundle/
 *.p12
 google-services.json
 **/GoogleService-Info.plist
+keys/
+import.log
