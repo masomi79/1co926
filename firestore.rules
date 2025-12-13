@@ -1,0 +1,149 @@
+rules_version = '2';
+
+// Firestore Security Rules for 1co926 project
+// 
+// IMPORTANT: Test these rules thoroughly in the Firebase Console Rules Playground
+// and Firebase Emulator Suite before deploying to production.
+//
+// These rules implement role-based access control using Firebase Authentication
+// and custom claims for admin privileges.
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    
+    // ============================================================================
+    // Helper Functions
+    // ============================================================================
+    
+    // Check if user is authenticated
+    function isSignedIn() {
+      return request.auth != null;
+    }
+    
+    // Check if user has admin custom claim
+    function isAdmin() {
+      return isSignedIn() && request.auth.token.admin == true;
+    }
+    
+    // ============================================================================
+    // Locations Collection
+    // ============================================================================
+    // Locations represent geographic points of interest that users can visit.
+    //
+    // Read: Any authenticated user can read all locations
+    // Create/Update/Delete: Only admins can modify locations
+    
+    match /locations/{locationId} {
+      // All signed-in users can read locations
+      allow read: if isSignedIn();
+      
+      // Only admins can create, update, or delete locations
+      allow create, update, delete: if isAdmin();
+    }
+    
+    // ============================================================================
+    // Visits Collection
+    // ============================================================================
+    // Visits record user visits to locations with results and metadata.
+    //
+    // Create: Authenticated users can create visits for themselves with validation
+    // Read: All authenticated users can read visits
+    // Update/Delete: Admin or the original creator can modify their own visits
+    
+    match /visits/{visitId} {
+      // All signed-in users can read visits
+      // Note: Adjust this if you want users to only see their own visits
+      allow read: if isSignedIn();
+      
+      // Users can create visits with the following validations:
+      // 1. User must be authenticated
+      // 2. userId must match the authenticated user's uid
+      // 3. Required fields must be present: userId, locationId, result, timestamp
+      // 4. result must be one of the allowed enum values
+      allow create: if isSignedIn() 
+                    && request.resource.data.userId == request.auth.uid
+                    && request.resource.data.keys().hasAll(['userId', 'locationId', 'result', 'timestamp'])
+                    && request.resource.data.result in ['Wal_Aisan', 'Upla_Apu', 'Kli_Wabia', 'Upla_Iwras'];
+      
+      // Users can update or delete their own visits, admins can modify any visit
+      allow update, delete: if isAdmin() 
+                             || (isSignedIn() && resource.data.userId == request.auth.uid);
+    }
+    
+    // ============================================================================
+    // Users Collection
+    // ============================================================================
+    // Users collection stores profile information and roles (supplementary to Auth).
+    //
+    // Create/Read/Update: Users can manage their own profile
+    // Update/Delete: Admins can modify any user profile
+    
+    match /users/{userId} {
+      // Users can read their own profile, admins can read all profiles
+      allow read: if isSignedIn() && (request.auth.uid == userId || isAdmin());
+      
+      // Users can create their own profile during signup
+      allow create: if isSignedIn() && request.auth.uid == userId;
+      
+      // Users can update their own profile (except role field)
+      // Admins can update any profile including role
+      allow update: if isSignedIn() && (
+        // User updating their own profile (cannot change role)
+        (request.auth.uid == userId && 
+         request.resource.data.role == resource.data.role)
+        // OR admin can update any profile
+        || isAdmin()
+      );
+      
+      // Only admins can delete user profiles
+      allow delete: if isAdmin();
+    }
+    
+    // ============================================================================
+    // Default Deny
+    // ============================================================================
+    // Any paths not explicitly matched above are denied by default.
+    // This is a security best practice to prevent accidental data exposure.
+  }
+}
+
+// ============================================================================
+// Deployment Instructions
+// ============================================================================
+// 
+// 1. Test these rules locally using Firebase Emulator Suite:
+//    firebase emulators:start
+//
+// 2. Test in Firebase Console Rules Playground:
+//    - Navigate to Firestore → Rules
+//    - Use the Playground to simulate read/write operations
+//
+// 3. Deploy to production only after thorough testing:
+//    firebase deploy --only firestore:rules
+//
+// ============================================================================
+// Setting Admin Custom Claims
+// ============================================================================
+//
+// Use Firebase Admin SDK to set admin custom claims:
+//
+// const admin = require('firebase-admin');
+// admin.initializeApp();
+//
+// async function setAdminClaim(uid) {
+//   await admin.auth().setCustomUserClaims(uid, { admin: true });
+//   console.log(`Admin claim set for user: ${uid}`);
+// }
+//
+// Users must sign out and sign back in after custom claims are set.
+//
+// ============================================================================
+// CAUTION
+// ============================================================================
+//
+// - ALWAYS test rules before deploying to production
+// - Monitor Firebase Console for unauthorized access attempts
+// - Review and update rules as your application evolves
+// - Consider implementing rate limiting via Cloud Functions for sensitive operations
+// - Use Firebase App Check to prevent abuse from unauthorized clients
+// - Keep backups of your data before making significant rule changes
