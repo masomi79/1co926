@@ -189,7 +189,7 @@ Stores user profile information and roles (supplementary to Firebase Authenticat
 ### JavaScript SDK Examples
 
 ```javascript
-import { collection, query, where, getDocs, addDoc, orderBy, limit } from 'firebase/firestore';
+import { collection, query, where, getDocs, getDoc, doc, addDoc, orderBy, limit } from 'firebase/firestore';
 import { db } from './firebase-config';
 
 // Get all locations

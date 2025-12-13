@@ -88,9 +88,9 @@ service cloud.firestore {
       // Users can update their own profile (except role field)
       // Admins can update any profile including role
       allow update: if isSignedIn() && (
-        // User updating their own profile (cannot change role)
+        // User updating their own profile (cannot modify role field)
         (request.auth.uid == userId && 
-         request.resource.data.role == resource.data.role)
+         !request.resource.data.diff(resource.data).affectedKeys().hasAny(['role']))
         // OR admin can update any profile
         || isAdmin()
       );
