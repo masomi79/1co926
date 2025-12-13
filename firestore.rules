@@ -1,0 +1,82 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // --- ヘルパー ---
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    // 管理者判定: custom claim 'admin' が true であることを期待
+    function isAdmin() {
+      return request.auth != null && request.auth.token.admin == true;
+    }
+
+    // 許可する visit.result の集合
+    function isValidResult(value) {
+      return value in [
+        "Wal_Aisan",
+        "Upla_Apu",
+        "Kli_Wabia",
+        "Upla_Iwras"
+      ];
+    }
+
+    // --- locations: 読み取りは認証ユーザー、書き込みは管理者のみ ---
+    match /locations/{locationId} {
+      allow get, list: if isSignedIn();
+      allow create, update, delete: if isAdmin();
+    }
+
+    // --- visits: 作成は本人のみ。読み取りは認証ユーザー。更新/削除は本人または管理者 ---
+    match /visits/{visitId} {
+      // 読み取り: 認証ユーザーなら可（アプリで全体または自分の履歴を表示する想定）
+      allow get, list: if isSignedIn();
+
+      // 作成: 認証済みかつ userId が auth.uid と一致, 必須フィールドチェック, result が enum 内であること
+      allow create: if isSignedIn()
+        && request.resource.data.userId == request.auth.uid
+        && request.resource.data.locationId is string
+        && request.resource.data.result is string
+        && isValidResult(request.resource.data.result)
+        && request.resource.data.timestamp is timestamp
+        // その他のフィールドは任意（note, photoUrl 等）
+        ;
+
+      // 更新/削除: 管理者または作成者本人のみ
+      allow update, delete: if isSignedIn() &&
+        (
+          isAdmin()
+          || resource.data.userId == request.auth.uid
+        );
+    }
+
+    // --- users: 各自のプロファイル管理 ---
+    match /users/{userId} {
+      // 読み取り: 認証ユーザーは制限付きで許可（利用方針に応じて変更可）
+      allow get: if isSignedIn();
+
+      // 作成: 認証済みユーザーが自分の uid を作成する場合に許可（通常は Auth がユーザー管理）
+      allow create: if isSignedIn() && request.auth.uid == userId;
+
+      // 更新: 自分のプロファイルは本人が更新可、管理者は全て更新可
+      allow update: if isSignedIn() &&
+        (request.auth.uid == userId || isAdmin());
+
+      // 削除: 管理者のみ（ユーザー削除は慎重に）
+      allow delete: if isAdmin();
+    }
+
+    // デフォルト拒否（上記以外は許可しない）
+  }
+}
+
+/*
+注意:
+- このルールは草案です。デプロイ前に Firebase エミュレータで十分にテストしてください。
+- 管理者付与は Firebase Admin SDK を使って custom claim に admin=true を設定してください。
+  例 (Node.js):
+    const admin = require('firebase-admin');
+    admin.auth().setCustomUserClaims(uid, {admin: true});
+- ルールはアプリ要件の変更に応じて更新してください。
+*/
