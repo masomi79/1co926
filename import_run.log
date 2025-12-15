@@ -1,0 +1,3 @@
+Warning: Ignoring extra certs from `/path/to/cert.pem`, load failed: error:80000002:system library::No such file or directory
+Importing 10 features into collection 'test_locations'...
+Import complete.

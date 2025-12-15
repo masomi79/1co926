@@ -1,0 +1,4 @@
+Warning: Ignoring extra certs from `/path/to/cert.pem`, load failed: error:80000002:system library::No such file or directory
+Importing 323 features into 'test_locations' with batchSize=400...
+Committed 323/323
+All done.

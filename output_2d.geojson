@@ -1,0 +1,6438 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7874722,
+          15.7527778
+        ]
+      },
+      "properties": {
+        "name": "10a Calle (Colonia Villa Margarita), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7745521,
+          15.7799313
+        ]
+      },
+      "properties": {
+        "name": "11 Avenida Este, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa cemento Griss (rosado)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7737099,
+          15.776723
+        ]
+      },
+      "properties": {
+        "name": "13 Avenida Este, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de cemento color verde claro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7732378,
+          15.7807263
+        ]
+      },
+      "properties": {
+        "name": "13 Avenida Este, La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Gris balcón blanco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7730089,
+          15.7810741
+        ]
+      },
+      "properties": {
+        "name": "13 Avenida Este, La Ceiba (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de bloque sin pintar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8599262,
+          15.7520036
+        ]
+      },
+      "properties": {
+        "name": "13a Calle (Colonia La Olímpica), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de cemento azul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7766981,
+          15.782094
+        ]
+      },
+      "properties": {
+        "name": "16 Calle (Colonia Kawas), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento color mostaza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7699729,
+          15.7774123
+        ]
+      },
+      "properties": {
+        "name": "17 Avenida Este, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamiento verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8001027,
+          15.7835992
+        ]
+      },
+      "properties": {
+        "name": "1a Calle (Colonia Miraflores), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Una casa de bloque pegada a pila"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8002321,
+          15.7837402
+        ]
+      },
+      "properties": {
+        "name": "1a Calle (Colonia Miraflores), La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Segundo piso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8001399,
+          15.7837536
+        ]
+      },
+      "properties": {
+        "name": "1a Calle (Colonia Miraflores), La Ceiba (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria color de cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7979395,
+          15.7618355
+        ]
+      },
+      "properties": {
+        "name": "1a Calle (Colonia Miraflores), La Ceiba (3)",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8442403,
+          15.7567041
+        ]
+      },
+      "properties": {
+        "name": "1a Calle, Dantillo",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa verde claro, pared de syn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8452827,
+          15.7538711
+        ]
+      },
+      "properties": {
+        "name": "1a Calle, Dantillo (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de syn, azul, coco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8284156,
+          15.7557144
+        ]
+      },
+      "properties": {
+        "name": "1a Calle, Dantillo (10)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de láminas. Cerco de arramble de púa."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8623247,
+          15.7485456
+        ]
+      },
+      "properties": {
+        "name": "1a Calle, Dantillo (11)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Paredes de cemento azul conjunto con una pulpería color verde claro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8395496,
+          15.7544358
+        ]
+      },
+      "properties": {
+        "name": "1a Calle, Dantillo (12)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de madera piso de cemento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.838951,
+          15.754223
+        ]
+      },
+      "properties": {
+        "name": "1a Calle, Dantillo (13)",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8452236,
+          15.7540612
+        ]
+      },
+      "properties": {
+        "name": "1a Calle, Dantillo (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de bloques"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8456334,
+          15.7555363
+        ]
+      },
+      "properties": {
+        "name": "1a Calle, Dantillo (3)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa esquina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8440136,
+          15.7563196
+        ]
+      },
+      "properties": {
+        "name": "1a Calle, Dantillo (4)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de cemento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.844102,
+          15.7563315
+        ]
+      },
+      "properties": {
+        "name": "1a Calle, Dantillo (5)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de madera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8434849,
+          15.7570445
+        ]
+      },
+      "properties": {
+        "name": "1a Calle, Dantillo (6)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de cemento dos palos de almendra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8444455,
+          15.7562397
+        ]
+      },
+      "properties": {
+        "name": "1a Calle, Dantillo (7)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de madera color rosado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8448748,
+          15.7564987
+        ]
+      },
+      "properties": {
+        "name": "1a Calle, Dantillo (8)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de madera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8448978,
+          15.756427
+        ]
+      },
+      "properties": {
+        "name": "1a Calle, Dantillo (9)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de bloque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8506635,
+          15.7537951
+        ]
+      },
+      "properties": {
+        "name": "1a Calle, Dantillo,Jase y Brenda",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de cemento verde y blanco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8384901,
+          15.7510407
+        ]
+      },
+      "properties": {
+        "name": "1ª Avenida (Colonia de Palmira), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa blanca portón negro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7825785,
+          15.7758031
+        ]
+      },
+      "properties": {
+        "name": "20 Calle (Barrio Alvarado), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa dos pisos salmón"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7840317,
+          15.7747326
+        ]
+      },
+      "properties": {
+        "name": "20 Calle (Barrio Alvarado), La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Segúndo piso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7711318,
+          15.7786653
+        ]
+      },
+      "properties": {
+        "name": "20 Calle A, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento rosado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7837944,
+          15.7746166
+        ]
+      },
+      "properties": {
+        "name": "21 Calle (Barrio Sierra Pina), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento rosada y verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7840404,
+          15.7746967
+        ]
+      },
+      "properties": {
+        "name": "21 Calle (Barrio Sierra Pina), La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento verde cemento dos pisos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7837409,
+          15.7746354
+        ]
+      },
+      "properties": {
+        "name": "21 Calle (Barrio Sierra Pina), La Ceiba (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Segundo piso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7838458,
+          15.7745895
+        ]
+      },
+      "properties": {
+        "name": "21 Calle (Barrio Sierra Pina), La Ceiba (3)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Segundo piso"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7708294,
+          15.777521
+        ]
+      },
+      "properties": {
+        "name": "21 Calle A (Colonia Irías del Este), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento grises"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7823572,
+          15.7727276
+        ]
+      },
+      "properties": {
+        "name": "24 Calle (Barrio Bella Vista), La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Esquina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7827107,
+          15.7726671
+        ]
+      },
+      "properties": {
+        "name": "24 Calle (Barrio Bella Vista), La Ceiba (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria azul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7825139,
+          15.7726999
+        ]
+      },
+      "properties": {
+        "name": "24 Calle (Barrio Bella Vista), La Ceiba Carmen",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Última Casa azul, portón negro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7828715,
+          15.7719582
+        ]
+      },
+      "properties": {
+        "name": "25 Calle (Barrio Bella Vista), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7934714,
+          15.7663808
+        ]
+      },
+      "properties": {
+        "name": "2a Avenida (Colonia Miraflores), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria barco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7899167,
+          15.7574167
+        ]
+      },
+      "properties": {
+        "name": "2a Calle (Colonia Murcia), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria verde calle de llanta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8501455,
+          15.7591328
+        ]
+      },
+      "properties": {
+        "name": "2ª Avenida (Colonia Nueva Era), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Esquina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7860479,
+          15.7796455
+        ]
+      },
+      "properties": {
+        "name": "3a Avenida Este (Barrio La Gloria), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa grande crema"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8393151,
+          15.7541954
+        ]
+      },
+      "properties": {
+        "name": "3a Avenida, Dantillo",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de madera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7644724,
+          15.7917943
+        ]
+      },
+      "properties": {
+        "name": "3a Calle (Resid. Bella de Oriente), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa cemento amarilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7641452,
+          15.7918951
+        ]
+      },
+      "properties": {
+        "name": "3a Calle (Resid. Bella de Oriente), La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa verde oscuro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7950544,
+          15.7671231
+        ]
+      },
+      "properties": {
+        "name": "4a Avenida (Colonia Miraflores), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Segundo piso de una casa de block al lado trasero de una casa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.789,
+          15.7568889
+        ]
+      },
+      "properties": {
+        "name": "4a Calle (Colonia San Judas Tadeo), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de cemento rosada atrás"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7888889,
+          15.7568333
+        ]
+      },
+      "properties": {
+        "name": "4a Calle (Colonia San Judas Tadeo), La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de cemento rosada derecha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7889444,
+          15.7568056
+        ]
+      },
+      "properties": {
+        "name": "4a Calle (Colonia San Judas Tadeo), La Ceiba (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de cemento rosada derecha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7946861,
+          15.7635192
+        ]
+      },
+      "properties": {
+        "name": "4a Calle (Colonia Suyapa), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.792447,
+          15.7634086
+        ]
+      },
+      "properties": {
+        "name": "4a Calle (Colonia Suyapa), La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7950306,
+          15.7670577
+        ]
+      },
+      "properties": {
+        "name": "4a Calle (Colonia Suyapa), La Ceiba (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarto en bajo de Una casa apartamento de cemento dos pisos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7956883,
+          15.7649667
+        ]
+      },
+      "properties": {
+        "name": "4a Calle (Colonia Suyapa), La Ceiba (3)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria de cemento color gris o café"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7958056,
+          15.7647778
+        ]
+      },
+      "properties": {
+        "name": "4a Calle (Colonia Suyapa), La Ceiba (4)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Detras de la pulpería, 2 casa (cuarteria con palo de mango, pilas al frente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7949715,
+          15.7633453
+        ]
+      },
+      "properties": {
+        "name": "4a Calle (Colonia Suyapa), La Ceiba (5)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de color de crema <br>Fondo de un camino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7644278,
+          15.7915995
+        ]
+      },
+      "properties": {
+        "name": "4a Calle (Resid. Bella de Oriente), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartment verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7638384,
+          15.7911815
+        ]
+      },
+      "properties": {
+        "name": "4a Calle (Resid. Bella de Oriente), La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa grande amarilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7652009,
+          15.791885
+        ]
+      },
+      "properties": {
+        "name": "4a Calle (Resid. Bella de Oriente), La Ceiba (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa amarilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.817563,
+          15.7628745
+        ]
+      },
+      "properties": {
+        "name": "4a Calle, Dantillo",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de cemento segundo piso medio construido color verde y rosado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8372778,
+          15.7505556
+        ]
+      },
+      "properties": {
+        "name": "4ª Calle (Colonia Gracias a Dios), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Parede verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8507549,
+          15.7588265
+        ]
+      },
+      "properties": {
+        "name": "4ª Calle (Colonia Nueva Era), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Azul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8505497,
+          15.7588612
+        ]
+      },
+      "properties": {
+        "name": "4ª Calle (Colonia Nueva Era), La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Carro rojo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8505835,
+          15.7590888
+        ]
+      },
+      "properties": {
+        "name": "4ª Calle (Colonia Nueva Era), La Ceiba (2)",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8502189,
+          15.7591269
+        ]
+      },
+      "properties": {
+        "name": "4ª Calle (Colonia Nueva Era), La Ceiba (3)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Segunda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8498317,
+          15.7517054
+        ]
+      },
+      "properties": {
+        "name": "5to Pasaje, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa con aparcamiento color verde cemento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8497489,
+          15.7517232
+        ]
+      },
+      "properties": {
+        "name": "5to Pasaje, La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamentos con casa, cemento, verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8493755,
+          15.7596067
+        ]
+      },
+      "properties": {
+        "name": "5ª Calle (Colonia Nueva Era), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Color de crema entre dos verdes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8490718,
+          15.7597401
+        ]
+      },
+      "properties": {
+        "name": "6ª Calle (Colonia Nueva Era), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa verde, segunda de la esquina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8601548,
+          15.7541533
+        ]
+      },
+      "properties": {
+        "name": "7a Calle (Colonia Yesenia Castillo), Dantillo",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria rosada después de azul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8606031,
+          15.7537615
+        ]
+      },
+      "properties": {
+        "name": "7a Calle (Colonia Yesenia Castillo), Dantillo (1)",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7822174,
+          15.7907992
+        ]
+      },
+      "properties": {
+        "name": "7a Calle, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa esquinal color celeste cemento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7881281,
+          15.7866081
+        ]
+      },
+      "properties": {
+        "name": "7a Calle, La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Segundo piso 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8612606,
+          15.7534876
+        ]
+      },
+      "properties": {
+        "name": "8a Avenida (Colonia La Olímpica), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Tal vez son de la Moskitia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8456917,
+          15.7553767
+        ]
+      },
+      "properties": {
+        "name": "8a Avenida (Colonia Marisol), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de bloque, segunda de esquina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8408604,
+          15.7536907
+        ]
+      },
+      "properties": {
+        "name": "8a Avenida (Colonia Marisol), La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7765681,
+          15.7794032
+        ]
+      },
+      "properties": {
+        "name": "8a Avenida Este, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Seis cuartos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7769789,
+          15.7796377
+        ]
+      },
+      "properties": {
+        "name": "8a Avenida Este, La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de cemento color crema, cerco amarillo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8343124,
+          15.750536
+        ]
+      },
+      "properties": {
+        "name": "8a Calle (Colonia Palmira), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de cemento color rosada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8363889,
+          15.74975
+        ]
+      },
+      "properties": {
+        "name": "8ª Calle (Colonia Gracias a Dios), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de bloque con patio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8365833,
+          15.7496944
+        ]
+      },
+      "properties": {
+        "name": "8ª Calle (Colonia Gracias a Dios), La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de cemento verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.83675,
+          15.7496389
+        ]
+      },
+      "properties": {
+        "name": "8ª Calle (Colonia Gracias a Dios), La Ceiba (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Segunda casa de la esquina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8390435,
+          15.7490532
+        ]
+      },
+      "properties": {
+        "name": "8ª Calle (Colonia Gracias a Dios), La Ceiba, Irene",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de madera verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7755539,
+          15.7820167
+        ]
+      },
+      "properties": {
+        "name": "9a Avenida Este, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cerco verde y blanco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.776349,
+          15.777681
+        ]
+      },
+      "properties": {
+        "name": "9a Avenida Este, La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7855884,
+          15.755087
+        ]
+      },
+      "properties": {
+        "name": "9a Calle (Colonia San Judas Tadeo), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa madera celeste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7881291,
+          15.7849195
+        ]
+      },
+      "properties": {
+        "name": "9a Calle, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento color salmón"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6305,
+          15.7876389
+        ]
+      },
+      "properties": {
+        "name": "Address is not known yet",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6295955,
+          15.7874819
+        ]
+      },
+      "properties": {
+        "name": "Address is not known yet (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Atrás de casa color rosado con pila mano izquierda, segunda puerta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6298151,
+          15.7876307
+        ]
+      },
+      "properties": {
+        "name": "Address is not known yet (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa con roca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7536389,
+          15.772
+        ]
+      },
+      "properties": {
+        "name": "Address is not known yet (3)",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7838041,
+          15.7641187
+        ]
+      },
+      "properties": {
+        "name": "Amos",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de madera morada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8106283,
+          15.7738032
+        ]
+      },
+      "properties": {
+        "name": "Angel (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Fondo de callejón planta baja"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.780981,
+          15.7732379
+        ]
+      },
+      "properties": {
+        "name": "Apartamento Pavon",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Atrás de familia Pavón"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7898002,
+          15.779277
+        ]
+      },
+      "properties": {
+        "name": "Apartamento “el refugio”",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Detrás de portón acero hay algunas puertas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7771703,
+          15.7794446
+        ]
+      },
+      "properties": {
+        "name": "Apartamentos Saúl 19 Calle (Barrio Alvarado), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Fondo a la derecha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8108236,
+          15.7760509
+        ]
+      },
+      "properties": {
+        "name": "Apt. Gris",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Arriba derecha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.810833,
+          15.7760519
+        ]
+      },
+      "properties": {
+        "name": "Apt. Gris (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Arriba izquierda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7881974,
+          15.785165
+        ]
+      },
+      "properties": {
+        "name": "Arriba fondo",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento madera crema dos pisos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7615981,
+          15.774861
+        ]
+      },
+      "properties": {
+        "name": "Atrás de Fam Perez Bengtson",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa cemento blanco cerco b/n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7829952,
+          15.7721228
+        ]
+      },
+      "properties": {
+        "name": "Avenida 14 de Julio, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7882552,
+          15.7860382
+        ]
+      },
+      "properties": {
+        "name": "Avenida Bastilla, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa celeste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7942167,
+          15.7779539
+        ]
+      },
+      "properties": {
+        "name": "Avenida José Cecilio del Valle, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento detrás de portón color rojo al lado de árbol de naranja agria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7831349,
+          15.7916693
+        ]
+      },
+      "properties": {
+        "name": "Avenida Juan Ramón Molina (Barrio La Gloria), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Una casota con intercomunicadora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7811145,
+          15.7902128
+        ]
+      },
+      "properties": {
+        "name": "Avenida Juan Ramón Molina (Barrio La Gloria), La Ceiba (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa cemento celeste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7812258,
+          15.7901189
+        ]
+      },
+      "properties": {
+        "name": "Avenida Juan Ramón Molina (Barrio La Gloria), La Ceiba (3)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria Celeste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7811856,
+          15.790062
+        ]
+      },
+      "properties": {
+        "name": "Avenida Juan Ramón Molina (Barrio La Gloria), La Ceiba (4)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria Celeste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7816011,
+          15.7742712
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Bastilla (Barrio Alvarado), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7812444,
+          15.7734758
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Bastilla (Barrio Alvarado), La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria detrás de una casa amarilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7805314,
+          15.7698539
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, bajando de Bellavista, segunda casa izquierda La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa con cerco de arramble de púa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7819401,
+          15.766682
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de syn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7816409,
+          15.7664937
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Pulpería cemento morada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7814107,
+          15.7675159
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, La Ceiba (10)",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7805589,
+          15.7683408
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, La Ceiba (11)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Block casa frente a rio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7805449,
+          15.7683672
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, La Ceiba (12)",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7807973,
+          15.7685984
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, La Ceiba (13)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de cemento blanca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7805385,
+          15.7687086
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, La Ceiba (14)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de madera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7804748,
+          15.7686415
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, La Ceiba (15)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de block techo rojo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7834819,
+          15.764438
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, La Ceiba (16)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de teja"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7833625,
+          15.7644971
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, La Ceiba (17)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de bloque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7804376,
+          15.7701057
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, La Ceiba (18)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de madera azul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7804744,
+          15.7694081
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, La Ceiba (19)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria de madera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7814855,
+          15.7665997
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, La Ceiba (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento 2 pozos azul cemento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.780482,
+          15.7693388
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, La Ceiba (20)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria de cemento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7811165,
+          15.7681052
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, La Ceiba (21)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Una Cuarteria continuo a la pulpería La Fe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7818889,
+          15.767
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, La Ceiba (22)",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7805821,
+          15.7679349
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, La Ceiba (23)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de bloque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7814201,
+          15.7667275
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, La Ceiba (3)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7816392,
+          15.7670406
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, La Ceiba (4)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Pared amarillo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7816622,
+          15.7669885
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, La Ceiba (5)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Frente de pared amarillo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7813406,
+          15.767019
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, La Ceiba (6)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de cemento color verde al lado de la ig. Morava"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7813981,
+          15.7675709
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, La Ceiba (7)",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.781023,
+          15.7674093
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, La Ceiba (8)",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.781168,
+          15.7677605
+        ]
+      },
+      "properties": {
+        "name": "Avenida La Borda, La Ceiba (9)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Madera frente a una iglesia oasis-"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7823233,
+          15.7725952
+        ]
+      },
+      "properties": {
+        "name": "Avenida Marco Aurelio Soto (Barrio Alvarado), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Puerta verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7875278,
+          15.7515278
+        ]
+      },
+      "properties": {
+        "name": "Avenida Principal (Colonia San Judas Tadeo), La Ceiba",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7851857,
+          15.7543856
+        ]
+      },
+      "properties": {
+        "name": "Avenida Principal (Colonia San Judas Tadeo), La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cemento gris"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7845916,
+          15.7538471
+        ]
+      },
+      "properties": {
+        "name": "Avenida Principal (Colonia San Judas Tadeo), La Ceiba (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Muro verde portón negro acero"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7853497,
+          15.7540668
+        ]
+      },
+      "properties": {
+        "name": "Avenida Principal (Colonia San Judas Tadeo), La Ceiba (3)",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7838686,
+          15.764005
+        ]
+      },
+      "properties": {
+        "name": "Avenida San Isidro (Barrio Solares Nuevos), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de madera verde y blanco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7841702,
+          15.7635629
+        ]
+      },
+      "properties": {
+        "name": "Avenida San Isidro (Barrio Solares Nuevos), La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de madera, esquina, antes del desvío al puente provisional"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7808127,
+          15.7732611
+        ]
+      },
+      "properties": {
+        "name": "Avenida Víctor Hugo",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7802295,
+          15.7716107
+        ]
+      },
+      "properties": {
+        "name": "Avenida Víctor Hugo (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Una casita"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7808282,
+          15.7734855
+        ]
+      },
+      "properties": {
+        "name": "Avenida Víctor Hugo (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de cemento color rosadaatrás de portón"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7716351,
+          15.7726883
+        ]
+      },
+      "properties": {
+        "name": "Barbería",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.807697,
+          15.7713767
+        ]
+      },
+      "properties": {
+        "name": "Bulevar 15 de Septiembre, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8064327,
+          15.7709448
+        ]
+      },
+      "properties": {
+        "name": "Bulevar 15 de Septiembre, La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cemento watla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8069542,
+          15.7711474
+        ]
+      },
+      "properties": {
+        "name": "Bulevar 15 de Septiembre, La Ceiba (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Madera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8078018,
+          15.7711789
+        ]
+      },
+      "properties": {
+        "name": "Bulevar 15 de Septiembre, La Ceiba (3)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa roja"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8076432,
+          15.771141
+        ]
+      },
+      "properties": {
+        "name": "Bulevar 15 de Septiembre, La Ceiba (4)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa blanca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.807487,
+          15.7710906
+        ]
+      },
+      "properties": {
+        "name": "Bulevar 15 de Septiembre, La Ceiba (5)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de cemento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0590105,
+          15.6443887
+        ]
+      },
+      "properties": {
+        "name": "Calle del Ferrocarril (Santa Ana), San Francisco",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa cemento color crema"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8448161,
+          15.7567838
+        ]
+      },
+      "properties": {
+        "name": "Calle del Ferrocarril, El Porvenir",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casita de madera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7356944,
+          15.7782778
+        ]
+      },
+      "properties": {
+        "name": "Calle del Rastro, La Ceiba",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7782849,
+          15.7682112
+        ]
+      },
+      "properties": {
+        "name": "Calle del Río, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de syn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7782827,
+          15.768591
+        ]
+      },
+      "properties": {
+        "name": "Calle del Río, La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.76849,
+          15.7703761
+        ]
+      },
+      "properties": {
+        "name": "Calle El Diluvio, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento, 9 puertas son de la Moskitia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.771515,
+          15.7727199
+        ]
+      },
+      "properties": {
+        "name": "Calle Girasol, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamiento rosado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7708554,
+          15.7727249
+        ]
+      },
+      "properties": {
+        "name": "Calle Girasol, La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria cemento verde portón rojo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7713947,
+          15.7726064
+        ]
+      },
+      "properties": {
+        "name": "Calle Girasol, La Ceiba (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de cemento dos pisos verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7675913,
+          15.7714886
+        ]
+      },
+      "properties": {
+        "name": "Calle Julia (Colonia Las Palmas), La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa color gris, cerco de bloque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7584617,
+          15.7797353
+        ]
+      },
+      "properties": {
+        "name": "Calle Lagoon Marina, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa media construida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7718545,
+          15.7752214
+        ]
+      },
+      "properties": {
+        "name": "Calle Limonaria, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de cemento, color rosada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7702778,
+          15.7732222
+        ]
+      },
+      "properties": {
+        "name": "Calle Rosa de Sarón, La Ceiba",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8454407,
+          15.755652
+        ]
+      },
+      "properties": {
+        "name": "carlos Limon",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cemento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7718072,
+          15.782002
+        ]
+      },
+      "properties": {
+        "name": "Carlos y NAty",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cerco de sin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.835325,
+          15.7496476
+        ]
+      },
+      "properties": {
+        "name": "Carretera CURLA, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casita con portón de madera color rosada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.83533,
+          15.7482778
+        ]
+      },
+      "properties": {
+        "name": "Carretera CURLA, La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casita de bloques, segunda grada de la esquina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7712304,
+          15.7927012
+        ]
+      },
+      "properties": {
+        "name": "Carretera Muelle de Cabotaje (Col. Misericordia), La Ceiba",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7711149,
+          15.7927267
+        ]
+      },
+      "properties": {
+        "name": "Carretera Muelle de Cabotaje (Col. Misericordia), La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de sin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7656505,
+          15.7958609
+        ]
+      },
+      "properties": {
+        "name": "Carretera Muelle de Cabotaje (Col. Misericordia), La Ceiba (10)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de cemento al lado de Cuarteria destruida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7731227,
+          15.7902304
+        ]
+      },
+      "properties": {
+        "name": "Carretera Muelle de Cabotaje (Col. Misericordia), La Ceiba (11)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Puerta de syn, muchos palos de banano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7725958,
+          15.7908156
+        ]
+      },
+      "properties": {
+        "name": "Carretera Muelle de Cabotaje (Col. Misericordia), La Ceiba (12)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa rosada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7701728,
+          15.7915106
+        ]
+      },
+      "properties": {
+        "name": "Carretera Muelle de Cabotaje (Col. Misericordia), La Ceiba (13)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Amarilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7710664,
+          15.792772
+        ]
+      },
+      "properties": {
+        "name": "Carretera Muelle de Cabotaje (Col. Misericordia), La Ceiba (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de madera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7708998,
+          15.7930517
+        ]
+      },
+      "properties": {
+        "name": "Carretera Muelle de Cabotaje (Col. Misericordia), La Ceiba (3)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de madera alta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7708388,
+          15.7932213
+        ]
+      },
+      "properties": {
+        "name": "Carretera Muelle de Cabotaje (Col. Misericordia), La Ceiba (4)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de con rojo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7707546,
+          15.7933056
+        ]
+      },
+      "properties": {
+        "name": "Carretera Muelle de Cabotaje (Col. Misericordia), La Ceiba (5)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de madera blanca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7701603,
+          15.7935121
+        ]
+      },
+      "properties": {
+        "name": "Carretera Muelle de Cabotaje (Col. Misericordia), La Ceiba (6)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Atrás de una casa de madera rosada de dos pisos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7697044,
+          15.7919463
+        ]
+      },
+      "properties": {
+        "name": "Carretera Muelle de Cabotaje (Col. Misericordia), La Ceiba (7)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa cemento celeste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7697786,
+          15.7931806
+        ]
+      },
+      "properties": {
+        "name": "Carretera Muelle de Cabotaje (Col. Misericordia), La Ceiba (8)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Pulpería"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7692751,
+          15.7928415
+        ]
+      },
+      "properties": {
+        "name": "Carretera Muelle de Cabotaje (Col. Misericordia), La Ceiba (9)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Pulpería cemento gris con garage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7817985,
+          15.7883158
+        ]
+      },
+      "properties": {
+        "name": "Casa color gris",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria al fondo de callejón"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7817864,
+          15.7724706
+        ]
+      },
+      "properties": {
+        "name": "Casa derecha hacia fondo",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Fondo del callejón"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7816617,
+          15.7704526
+        ]
+      },
+      "properties": {
+        "name": "Casa esquinal 27 Calle (Barrio Bella Vista), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Parte arriba blanca de madera bajo rosada de cemento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7816866,
+          15.7724888
+        ]
+      },
+      "properties": {
+        "name": "Casa izquierda hacia fondo",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8345558,
+          15.7507828
+        ]
+      },
+      "properties": {
+        "name": "Casa No. 13",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cement color olivo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7817349,
+          15.7724135
+        ]
+      },
+      "properties": {
+        "name": "Casa verde al fondo",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Fondo del callejón"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7747739,
+          15.7828025
+        ]
+      },
+      "properties": {
+        "name": "Cuarta Calle (Col. Villa Mary), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria cemento rosado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7768721,
+          15.7824334
+        ]
+      },
+      "properties": {
+        "name": "Cuarta Calle (Col. Villa Mary), La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7769634,
+          15.7823322
+        ]
+      },
+      "properties": {
+        "name": "Cuarta Calle (Col. Villa Mary), La Ceiba (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7770297,
+          15.7823482
+        ]
+      },
+      "properties": {
+        "name": "Cuarta Calle (Col. Villa Mary), La Ceiba (3)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7768997,
+          15.7823161
+        ]
+      },
+      "properties": {
+        "name": "Cuarta Calle (Col. Villa Mary), La Ceiba (4)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7769323,
+          15.7823201
+        ]
+      },
+      "properties": {
+        "name": "Cuarta Calle (Col. Villa Mary), La Ceiba (5)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7762563,
+          15.7826015
+        ]
+      },
+      "properties": {
+        "name": "Cuarta Calle (Col. Villa Mary), La Ceiba (6)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de bloques techo de syn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8109246,
+          15.7746946
+        ]
+      },
+      "properties": {
+        "name": "Cuarta Calle (Colonia Miramar), La Ceiba Ronys beach bar",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Gris dos pisos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7672763,
+          15.7716599
+        ]
+      },
+      "properties": {
+        "name": "Cuarta puerta",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8460783,
+          15.7552104
+        ]
+      },
+      "properties": {
+        "name": "cuarteria",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cemento verde claro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0528937,
+          15.642016
+        ]
+      },
+      "properties": {
+        "name": "Cuarteria verde y blanco",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Núm.2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0528464,
+          15.6420561
+        ]
+      },
+      "properties": {
+        "name": "Cuarteria verde y blanco (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Núm.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7771851,
+          15.7792415
+        ]
+      },
+      "properties": {
+        "name": "Cuarto núm.2. 19 Calle (Barrio Alvarado), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamentos Saúl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7828851,
+          15.7891998
+        ]
+      },
+      "properties": {
+        "name": "Cuarto número 4.  8a Calle, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Edificio 843"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7520732,
+          15.7766662
+        ]
+      },
+      "properties": {
+        "name": "Delmy watla",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cemento celeste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7748217,
+          15.7784878
+        ]
+      },
+      "properties": {
+        "name": "Derecha",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8101199,
+          15.7776723
+        ]
+      },
+      "properties": {
+        "name": "Doña Martina Sexta Calle (Colonia Miramar), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa esquina verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7813462,
+          15.7666024
+        ]
+      },
+      "properties": {
+        "name": "Egnecio",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Fondo del callejón al lado de apartamento azul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.811866,
+          15.7758389
+        ]
+      },
+      "properties": {
+        "name": "Fam. Rivera Rodriguez",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa cemento crema"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7671831,
+          15.7964986
+        ]
+      },
+      "properties": {
+        "name": "Fábrica de canastas de langostas",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7520826,
+          15.7771863
+        ]
+      },
+      "properties": {
+        "name": "Ferrocarril Nacional, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa amarilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7523015,
+          15.7774525
+        ]
+      },
+      "properties": {
+        "name": "Ferrocarril Nacional, La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Tercera de esquina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7378056,
+          15.7798889
+        ]
+      },
+      "properties": {
+        "name": "Ferrocarril Nacional, La Ceiba (10)",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7349167,
+          15.7790556
+        ]
+      },
+      "properties": {
+        "name": "Ferrocarril Nacional, La Ceiba (11)",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7230497,
+          15.7877697
+        ]
+      },
+      "properties": {
+        "name": "Ferrocarril Nacional, La Ceiba (12)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Fondo de callejón al lado de la pulpería “las hermanas” lado derecha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7256944,
+          15.7883333
+        ]
+      },
+      "properties": {
+        "name": "Ferrocarril Nacional, La Ceiba (13)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de bloque en frente del campo de futbol, esquina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7279689,
+          15.7892616
+        ]
+      },
+      "properties": {
+        "name": "Ferrocarril Nacional, La Ceiba (14)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casita de lámina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7280376,
+          15.7894497
+        ]
+      },
+      "properties": {
+        "name": "Ferrocarril Nacional, La Ceiba (15)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de lamina frente a la playa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7281972,
+          15.7894346
+        ]
+      },
+      "properties": {
+        "name": "Ferrocarril Nacional, La Ceiba (16)",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7282887,
+          15.7893916
+        ]
+      },
+      "properties": {
+        "name": "Ferrocarril Nacional, La Ceiba (17)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de lámina orilla de una quebrada pequeña"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7287142,
+          15.7891738
+        ]
+      },
+      "properties": {
+        "name": "Ferrocarril Nacional, La Ceiba (18)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de lámina de tras de yukas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7277734,
+          15.7894461
+        ]
+      },
+      "properties": {
+        "name": "Ferrocarril Nacional, La Ceiba (19)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de lámina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7519217,
+          15.777254
+        ]
+      },
+      "properties": {
+        "name": "Ferrocarril Nacional, La Ceiba (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Freente de palmera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7278056,
+          15.7894522
+        ]
+      },
+      "properties": {
+        "name": "Ferrocarril Nacional, La Ceiba (20)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de lámina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7213473,
+          15.7872122
+        ]
+      },
+      "properties": {
+        "name": "Ferrocarril Nacional, La Ceiba (3)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de madera color azul claro, techo de syn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7207705,
+          15.7878249
+        ]
+      },
+      "properties": {
+        "name": "Ferrocarril Nacional, La Ceiba (4)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Una casa con patio grande techo rojo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.733689,
+          15.7838585
+        ]
+      },
+      "properties": {
+        "name": "Ferrocarril Nacional, La Ceiba (5)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casita de syn detrás de una casa de madera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7336582,
+          15.7838236
+        ]
+      },
+      "properties": {
+        "name": "Ferrocarril Nacional, La Ceiba (6)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de madera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7337023,
+          15.7837849
+        ]
+      },
+      "properties": {
+        "name": "Ferrocarril Nacional, La Ceiba (7)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de madera verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7351381,
+          15.7823656
+        ]
+      },
+      "properties": {
+        "name": "Ferrocarril Nacional, La Ceiba (8)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de madera verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7358532,
+          15.7817265
+        ]
+      },
+      "properties": {
+        "name": "Ferrocarril Nacional, La Ceiba (9)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de madera verde, hace curto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8452843,
+          15.7542774
+        ]
+      },
+      "properties": {
+        "name": "iglecia Morava",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.774812,
+          15.7785664
+        ]
+      },
+      "properties": {
+        "name": "Izquierda",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8028791,
+          15.7809388
+        ]
+      },
+      "properties": {
+        "name": "Kenia, Peatonal 1 (Colonia Los Maestros), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7636505,
+          15.7964107
+        ]
+      },
+      "properties": {
+        "name": "La Ceiba - Útila / Coxen Hole",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Última casa , madera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7635611,
+          15.7963832
+        ]
+      },
+      "properties": {
+        "name": "La Ceiba - Útila / Coxen Hole (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cemento morada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7636399,
+          15.7963473
+        ]
+      },
+      "properties": {
+        "name": "La Ceiba - Útila / Coxen Hole (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Madera amarilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7634505,
+          15.7964307
+        ]
+      },
+      "properties": {
+        "name": "La Ceiba - Útila / Coxen Hole (3)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Madera rojo claro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7635329,
+          15.7961403
+        ]
+      },
+      "properties": {
+        "name": "La Ceiba - Útila / Coxen Hole (4)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de block"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7632642,
+          15.7960034
+        ]
+      },
+      "properties": {
+        "name": "La Ceiba - Útila / Coxen Hole (5)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Madera verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7631586,
+          15.7961514
+        ]
+      },
+      "properties": {
+        "name": "La Ceiba - Útila / Coxen Hole (6)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Segunda casa, madera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.763165,
+          15.796134
+        ]
+      },
+      "properties": {
+        "name": "La Ceiba - Útila / Coxen Hole (7)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Madera azul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7632505,
+          15.7967431
+        ]
+      },
+      "properties": {
+        "name": "La Ceiba - Útila / Coxen Hole (8)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Última casa, madera, taller de motor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7820122,
+          15.7667022
+        ]
+      },
+      "properties": {
+        "name": "My position",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa cemento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7721406,
+          15.7915895
+        ]
+      },
+      "properties": {
+        "name": "My position (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de madera blanca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7935199,
+          15.7669266
+        ]
+      },
+      "properties": {
+        "name": "My position (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria cemento crema"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7707947,
+          15.7732864
+        ]
+      },
+      "properties": {
+        "name": "My position (3)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7994393,
+          15.783343
+        ]
+      },
+      "properties": {
+        "name": "My position (4)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Una casa de madera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7682557,
+          15.7703954
+        ]
+      },
+      "properties": {
+        "name": "My position (5)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Una casa, en una Cuarteria. Dentro de portón tiene grada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7523414,
+          15.7772306
+        ]
+      },
+      "properties": {
+        "name": "Novena casa",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Amarilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7771829,
+          15.7793112
+        ]
+      },
+      "properties": {
+        "name": "Num.3. 19 Calle (Barrio Alvarado), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamentos Saúl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0529369,
+          15.6419836
+        ]
+      },
+      "properties": {
+        "name": "Num3",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria verde y blanco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7617731,
+          15.7750515
+        ]
+      },
+      "properties": {
+        "name": "Octava Avenida (Colonia La Pradera), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cerco cemento color naranja y blanco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8010086,
+          15.781891
+        ]
+      },
+      "properties": {
+        "name": "Peatonal 4 (Colonia Los Maestros), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa esquinal verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8010133,
+          15.7821651
+        ]
+      },
+      "properties": {
+        "name": "Peatonal 4 (Colonia Los Maestros), La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7851733,
+          15.7924141
+        ]
+      },
+      "properties": {
+        "name": "Penúltima puerta del pasillo más al leste (edificio verde)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento para solteros"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.781517,
+          15.7731503
+        ]
+      },
+      "properties": {
+        "name": "Planta arriba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento  azul “Loto”"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.781517,
+          15.7731503
+        ]
+      },
+      "properties": {
+        "name": "Planta baja",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento azul “Loto”"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7847735,
+          15.7874194
+        ]
+      },
+      "properties": {
+        "name": "Portón roja o ventanilla que se  venden ricos topos",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa blanca de cemento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7528517,
+          15.7778404
+        ]
+      },
+      "properties": {
+        "name": "Primer casa",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Color morado/rosado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7874093,
+          15.7572165
+        ]
+      },
+      "properties": {
+        "name": "Primer cuarto de segundo piso",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7738083,
+          15.7781887
+        ]
+      },
+      "properties": {
+        "name": "Primer piso",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apt. Color rosada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7632858,
+          15.7757526
+        ]
+      },
+      "properties": {
+        "name": "Primer planta",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamiento color salmón"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7672781,
+          15.7714636
+        ]
+      },
+      "properties": {
+        "name": "Primer puerta",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7772301,
+          15.77102
+        ]
+      },
+      "properties": {
+        "name": "Primera Avenida (Barrio Sierra Pina), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa cemento azul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7743132,
+          15.7875829
+        ]
+      },
+      "properties": {
+        "name": "Primera Call, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de madera verde, frente al bote"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8098347,
+          15.7756502
+        ]
+      },
+      "properties": {
+        "name": "Primera Calle (Colonia Hondutel), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Atrás de casa naranjada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8375543,
+          15.7510181
+        ]
+      },
+      "properties": {
+        "name": "Primera puerta",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria azul/blanco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7855381,
+          15.7537302
+        ]
+      },
+      "properties": {
+        "name": "Primera puerta (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Una Cuarteria de tres puertas color naranjado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7720065,
+          15.7778917
+        ]
+      },
+      "properties": {
+        "name": "Primera puerta de derecha",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "De La esquina, segunda casa, color verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7527045,
+          15.7775859
+        ]
+      },
+      "properties": {
+        "name": "Prolongación Boulevard del Este, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Verde cement"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7527151,
+          15.7767251
+        ]
+      },
+      "properties": {
+        "name": "Prolongación Boulevard del Este, La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Última casa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.755659,
+          15.7779138
+        ]
+      },
+      "properties": {
+        "name": "Prolongación Boulevard del Este, La Ceiba (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Segunda casa color blanca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7551884,
+          15.7784765
+        ]
+      },
+      "properties": {
+        "name": "Prolongación Boulevard del Este, La Ceiba (3)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa blanca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7527139,
+          15.7780013
+        ]
+      },
+      "properties": {
+        "name": "Prolongación Boulevard del Este, La Ceiba (4)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa cemento rosada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7525488,
+          15.7779258
+        ]
+      },
+      "properties": {
+        "name": "Prolongación Boulevard del Este, La Ceiba (5)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cemento color de frijoles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7527141,
+          15.7779161
+        ]
+      },
+      "properties": {
+        "name": "Prolongación Boulevard del Este, La Ceiba (6)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa crema"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7547881,
+          15.7785343
+        ]
+      },
+      "properties": {
+        "name": "Prolongación Boulevard del Este, La Ceiba (7)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa gris con cerco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7840284,
+          15.7625515
+        ]
+      },
+      "properties": {
+        "name": "Puente Saopín, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de sin, frente al río"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7841826,
+          15.7624633
+        ]
+      },
+      "properties": {
+        "name": "Puente Saopín, La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de syn, al lado de iglesia de Dios “la bendición”"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7822792,
+          15.7873469
+        ]
+      },
+      "properties": {
+        "name": "Puerta 1 (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento al lado de depósito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7822496,
+          15.7873766
+        ]
+      },
+      "properties": {
+        "name": "Puerta 2",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento al lado de depósito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7822325,
+          15.7874023
+        ]
+      },
+      "properties": {
+        "name": "Puerta 3",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento al lado de depósito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7822075,
+          15.7874137
+        ]
+      },
+      "properties": {
+        "name": "Puerta 4",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento al lado del depósito"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7818003,
+          15.7883826
+        ]
+      },
+      "properties": {
+        "name": "Puerta color de café",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria al fondo de callejón"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7738755,
+          15.7699976
+        ]
+      },
+      "properties": {
+        "name": "Puerta de arriba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento de dos plantas azul cielo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7818613,
+          15.7883551
+        ]
+      },
+      "properties": {
+        "name": "Puerta Griss",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria al fondo de callejón"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8513611,
+          15.7562222
+        ]
+      },
+      "properties": {
+        "name": "Pulpería Big Cola, 1a Calle, Dantillo",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Pulpería Big cola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7733306,
+          15.7749257
+        ]
+      },
+      "properties": {
+        "name": "Pulpería La Fe",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cerco de cemento crema"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7711506,
+          15.7823902
+        ]
+      },
+      "properties": {
+        "name": "Quinta Avenida (Barrio Bella Vista), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cerco y portón de color de café"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7717923,
+          15.7735375
+        ]
+      },
+      "properties": {
+        "name": "Quinta Avenida (Barrio Bella Vista), La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria verde claro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7736264,
+          15.7693236
+        ]
+      },
+      "properties": {
+        "name": "Quinta Avenida (Barrio Bella Vista), La Ceiba (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Verde cemento esquina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8103579,
+          15.7765778
+        ]
+      },
+      "properties": {
+        "name": "Quinta Calle (Colonia Miramar), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento verde cemento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7721747,
+          15.7912512
+        ]
+      },
+      "properties": {
+        "name": "Raimilda",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de madera y sin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7558442,
+          15.7708661
+        ]
+      },
+      "properties": {
+        "name": "Saraí",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Chorizo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7519388,
+          15.7778379
+        ]
+      },
+      "properties": {
+        "name": "Saubeen",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Amarilla, primera casa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.802696,
+          15.7803366
+        ]
+      },
+      "properties": {
+        "name": "Segunda Calle (Colonia Los Maestros), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamentos Griss"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7825942,
+          15.7917766
+        ]
+      },
+      "properties": {
+        "name": "Segunda de izquierda",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria de cinco puertas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7528997,
+          15.7775885
+        ]
+      },
+      "properties": {
+        "name": "Segunda de la esquina",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa amarilla, cemento cerrada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8375557,
+          15.7510379
+        ]
+      },
+      "properties": {
+        "name": "Segunda puerta",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria azul/blanco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7672797,
+          15.771523
+        ]
+      },
+      "properties": {
+        "name": "Segunda puerta (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8002328,
+          15.7836583
+        ]
+      },
+      "properties": {
+        "name": "Segundo piso",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Fondo del callejón"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8003349,
+          15.7837556
+        ]
+      },
+      "properties": {
+        "name": "Segundo piso (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Asa frente a calle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8027782,
+          15.781012
+        ]
+      },
+      "properties": {
+        "name": "Segundo piso (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7881581,
+          15.7865316
+        ]
+      },
+      "properties": {
+        "name": "Segundo piso 1",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apt. Arriba de una pulpería"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7881841,
+          15.7865946
+        ]
+      },
+      "properties": {
+        "name": "Segundo pozo",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7755891,
+          15.7710772
+        ]
+      },
+      "properties": {
+        "name": "Sexta Avenida (Colonia Pizzati 1), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria cemento blanco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8107861,
+          15.777613
+        ]
+      },
+      "properties": {
+        "name": "Séptima Avenida (Colonia Miramar), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8106518,
+          15.7776561
+        ]
+      },
+      "properties": {
+        "name": "Séptima Avenida (Colonia Miramar), La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8104885,
+          15.7775302
+        ]
+      },
+      "properties": {
+        "name": "Séptima Avenida (Colonia Miramar), La Ceiba (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria con patio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8103514,
+          15.7770014
+        ]
+      },
+      "properties": {
+        "name": "Séptima Avenida (Colonia Miramar), La Ceiba (3)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa blanca, cerco gris"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7732036,
+          15.7749963
+        ]
+      },
+      "properties": {
+        "name": "Séptima Avenida (Colonia Pizzati 1), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Dos pisos crema portón negro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7978625,
+          15.761883
+        ]
+      },
+      "properties": {
+        "name": "Séptima Calle (Colonia Loma de Buenos Aires), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Azul celeste techo rojo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8102951,
+          15.7761532
+        ]
+      },
+      "properties": {
+        "name": "Séptima Calle (Colonia Miramar), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Gross"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.767279,
+          15.7715899
+        ]
+      },
+      "properties": {
+        "name": "Tercer puerta",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7752473,
+          15.7833163
+        ]
+      },
+      "properties": {
+        "name": "Tercera Avenida (Colonia La Pradera), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa de cemento gris"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7752445,
+          15.7842452
+        ]
+      },
+      "properties": {
+        "name": "Tercera Avenida (Colonia La Pradera), La Ceiba (1)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa azul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7752674,
+          15.7842564
+        ]
+      },
+      "properties": {
+        "name": "Tercera Avenida (Colonia La Pradera), La Ceiba (2)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa rojo oscuro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7639629,
+          15.7746879
+        ]
+      },
+      "properties": {
+        "name": "Tercera Avenida (Colonia La Pradera), La Ceiba (3)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa cemento crema"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7825734,
+          15.7917922
+        ]
+      },
+      "properties": {
+        "name": "Tercera de izquierda",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Cuarteria que tiene cinco puertas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8388727,
+          15.754161
+        ]
+      },
+      "properties": {
+        "name": "Una casita sencilla",
+        "styleUrl": "#icon-503-DB4436-nodesc",
+        "styleHash": "-3b314e07",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-nodesc-normal",
+          "highlight": "#icon-503-DB4436-nodesc-highlight"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7694348,
+          15.7737093
+        ]
+      },
+      "properties": {
+        "name": "Undécima Avenida (Colonia Pizzati 3), La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa verde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7601366,
+          15.7752212
+        ]
+      },
+      "properties": {
+        "name": "Undécima, La Ceiba",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Casa verde dos piso madera"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7851795,
+          15.7924336
+        ]
+      },
+      "properties": {
+        "name": "Última puerta del pasillo más al leste (edificio verde)",
+        "styleUrl": "#icon-503-DB4436",
+        "styleHash": "42f29172",
+        "styleMapHash": {
+          "normal": "#icon-503-DB4436-normal",
+          "highlight": "#icon-503-DB4436-highlight"
+        },
+        "description": "Apartamento para solteros"
+      }
+    }
+  ]
+}
