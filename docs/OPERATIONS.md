@@ -1,4 +1,3 @@
-```markdown
 # Operations & Safety (short checklist)
 
 This document collects the operational steps used and next steps to run imports safely for this project (1co926).
@@ -35,4 +34,3 @@ This document collects the operational steps used and next steps to run imports 
 
 ## Emergency stop
 - Delete the service account key in GCP Console to immediately prevent further writes from that key.
-```
