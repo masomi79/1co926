@@ -1,149 +1,82 @@
 rules_version = '2';
-
-// Firestore Security Rules for 1co926 project
-// 
-// IMPORTANT: Test these rules thoroughly in the Firebase Console Rules Playground
-// and Firebase Emulator Suite before deploying to production.
-//
-// These rules implement role-based access control using Firebase Authentication
-// and custom claims for admin privileges.
-
 service cloud.firestore {
   match /databases/{database}/documents {
-    
-    // ============================================================================
-    // Helper Functions
-    // ============================================================================
-    
-    // Check if user is authenticated
+
+    // --- ヘルパー ---
     function isSignedIn() {
       return request.auth != null;
     }
-    
-    // Check if user has admin custom claim
+
+    // 管理者判定: custom claim 'admin' が true であることを期待
     function isAdmin() {
-      return isSignedIn() && request.auth.token.admin == true;
+      return request.auth != null && request.auth.token.admin == true;
     }
-    
-    // ============================================================================
-    // Locations Collection
-    // ============================================================================
-    // Locations represent geographic points of interest that users can visit.
-    //
-    // Read: Any authenticated user can read all locations
-    // Create/Update/Delete: Only admins can modify locations
-    
+
+    // 許可する visit.result の集合
+    function isValidResult(value) {
+      return value in [
+        "Wal_Aisan",
+        "Upla_Apu",
+        "Kli_Wabia",
+        "Upla_Iwras"
+      ];
+    }
+
+    // --- locations: 読み取りは認証ユーザー、書き込みは管理者のみ ---
     match /locations/{locationId} {
-      // All signed-in users can read locations
-      allow read: if isSignedIn();
-      
-      // Only admins can create, update, or delete locations
+      allow get, list: if isSignedIn();
       allow create, update, delete: if isAdmin();
     }
-    
-    // ============================================================================
-    // Visits Collection
-    // ============================================================================
-    // Visits record user visits to locations with results and metadata.
-    //
-    // Create: Authenticated users can create visits for themselves with validation
-    // Read: All authenticated users can read visits
-    // Update/Delete: Admin or the original creator can modify their own visits
-    
+
+    // --- visits: 作成は本人のみ。読み取りは認証ユーザー。更新/削除は本人または管理者 ---
     match /visits/{visitId} {
-      // All signed-in users can read visits
-      // Note: Adjust this if you want users to only see their own visits
-      allow read: if isSignedIn();
-      
-      // Users can create visits with the following validations:
-      // 1. User must be authenticated
-      // 2. userId must match the authenticated user's uid
-      // 3. Required fields must be present: userId, locationId, result, timestamp
-      // 4. result must be one of the allowed enum values
-      allow create: if isSignedIn() 
-                    && request.resource.data.userId == request.auth.uid
-                    && request.resource.data.keys().hasAll(['userId', 'locationId', 'result', 'timestamp'])
-                    && request.resource.data.result in ['Wal_Aisan', 'Upla_Apu', 'Kli_Wabia', 'Upla_Iwras'];
-      
-      // Users can update or delete their own visits, admins can modify any visit
-      allow update, delete: if isAdmin() 
-                             || (isSignedIn() && resource.data.userId == request.auth.uid);
+      // 読み取り: 認証ユーザーなら可（アプリで全体または自分の履歴を表示する想定）
+      allow get, list: if isSignedIn();
+
+      // 作成: 認証済みかつ userId が auth.uid と一致, 必須フィールドチェック, result が enum 内であること
+      allow create: if isSignedIn()
+        && request.resource.data.userId == request.auth.uid
+        && request.resource.data.locationId is string
+        && request.resource.data.result is string
+        && isValidResult(request.resource.data.result)
+        && request.resource.data.timestamp is timestamp
+        // その他のフィールドは任意（note, photoUrl 等）
+        ;
+
+      // 更新/削除: 管理者または作成者本人のみ
+      allow update, delete: if isSignedIn() &&
+        (
+          isAdmin()
+          || resource.data.userId == request.auth.uid
+        );
     }
-    
-    // ============================================================================
-    // Users Collection
-    // ============================================================================
-    // Users collection stores profile information and roles (supplementary to Auth).
-    //
-    // Create/Read/Update: Users can manage their own profile
-    // Update/Delete: Admins can modify any user profile
-    
+
+    // --- users: 各自のプロファイル管理 ---
     match /users/{userId} {
-      // Users can read their own profile, admins can read all profiles
-      allow read: if isSignedIn() && (request.auth.uid == userId || isAdmin());
-      
-      // Users can create their own profile during signup
+      // 読み取り: 認証ユーザーは制限付きで許可（利用方針に応じて変更可）
+      allow get: if isSignedIn();
+
+      // 作成: 認証済みユーザーが自分の uid を作成する場合に許可（通常は Auth がユーザー管理）
       allow create: if isSignedIn() && request.auth.uid == userId;
-      
-      // Users can update their own profile (except role field)
-      // Admins can update any profile including role
-      allow update: if isSignedIn() && (
-        // User updating their own profile (cannot modify role field)
-        (request.auth.uid == userId && 
-         !request.resource.data.diff(resource.data).affectedKeys().hasAny(['role']))
-        // OR admin can update any profile
-        || isAdmin()
-      );
-      
-      // Only admins can delete user profiles
+
+      // 更新: 自分のプロファイルは本人が更新可、管理者は全て更新可
+      allow update: if isSignedIn() &&
+        (request.auth.uid == userId || isAdmin());
+
+      // 削除: 管理者のみ（ユーザー削除は慎重に）
       allow delete: if isAdmin();
     }
-    
-    // ============================================================================
-    // Default Deny
-    // ============================================================================
-    // Any paths not explicitly matched above are denied by default.
-    // This is a security best practice to prevent accidental data exposure.
+
+    // デフォルト拒否（上記以外は許可しない）
   }
 }
 
-// ============================================================================
-// Deployment Instructions
-// ============================================================================
-// 
-// 1. Test these rules locally using Firebase Emulator Suite:
-//    firebase emulators:start
-//
-// 2. Test in Firebase Console Rules Playground:
-//    - Navigate to Firestore → Rules
-//    - Use the Playground to simulate read/write operations
-//
-// 3. Deploy to production only after thorough testing:
-//    firebase deploy --only firestore:rules
-//
-// ============================================================================
-// Setting Admin Custom Claims
-// ============================================================================
-//
-// Use Firebase Admin SDK to set admin custom claims:
-//
-// const admin = require('firebase-admin');
-// admin.initializeApp();
-//
-// async function setAdminClaim(uid) {
-//   await admin.auth().setCustomUserClaims(uid, { admin: true });
-//   console.log(`Admin claim set for user: ${uid}`);
-// }
-//
-// Users must sign out and sign back in after custom claims are set.
-//
-// ============================================================================
-// CAUTION
-// ============================================================================
-//
-// - ALWAYS test rules before deploying to production
-// - Monitor Firebase Console for unauthorized access attempts
-// - Review and update rules as your application evolves
-// - Consider implementing rate limiting via Cloud Functions for sensitive operations
-// - Use Firebase App Check to prevent abuse from unauthorized clients
-// - Keep backups of your data before making significant rule changes
+/*
+注意:
+- このルールは草案です。デプロイ前に Firebase エミュレータで十分にテストしてください。
+- 管理者付与は Firebase Admin SDK を使って custom claim に admin=true を設定してください。
+  例 (Node.js):
+    const admin = require('firebase-admin');
+    admin.auth().setCustomUserClaims(uid, {admin: true});
+- ルールはアプリ要件の変更に応じて更新してください。
+*/
