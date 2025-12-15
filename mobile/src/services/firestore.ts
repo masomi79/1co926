@@ -97,7 +97,17 @@ export const getVisitsByUser = async (userId: string): Promise<Visit[]> => {
 
 export const updateVisit = async (visitId: string, updates: Partial<Visit>): Promise<void> => {
   const docRef = doc(db, COLLECTIONS.VISITS, visitId);
-  await updateDoc(docRef, updates);
+  
+  // Convert Date fields to Timestamp
+  const processedUpdates: any = { ...updates };
+  if (updates.timestamp instanceof Date) {
+    processedUpdates.timestamp = Timestamp.fromDate(updates.timestamp);
+  }
+  if (updates.createdAt instanceof Date) {
+    processedUpdates.createdAt = Timestamp.fromDate(updates.createdAt);
+  }
+  
+  await updateDoc(docRef, processedUpdates);
 };
 
 export const deleteVisit = async (visitId: string): Promise<void> => {
@@ -120,7 +130,14 @@ export const createLocation = async (location: Omit<Location, 'id'>): Promise<st
 
 export const updateLocation = async (locationId: string, updates: Partial<Location>): Promise<void> => {
   const docRef = doc(db, COLLECTIONS.LOCATIONS, locationId);
-  await updateDoc(docRef, updates);
+  
+  // Convert Date fields to Timestamp
+  const processedUpdates: any = { ...updates };
+  if (updates.createdAt instanceof Date) {
+    processedUpdates.createdAt = Timestamp.fromDate(updates.createdAt);
+  }
+  
+  await updateDoc(docRef, processedUpdates);
 };
 
 export const deleteLocation = async (locationId: string): Promise<void> => {
