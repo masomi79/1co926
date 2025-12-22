@@ -2,6 +2,34 @@ Roadmap
 
 1co926 プロジェクト - アプリ完成までのロードマップ
 
+## ショートロードマップ（最短で動かすための優先手順）
+- 目標: まずは動くモバイル MVP を最短で作り、その後で精緻化する
+- 前提: 要件は docs/REQUIREMENTS.md のとおり（認証あり / Map 表示 / visits 記録）
+
+ステップA: データ投入を先に完了
+- KMZ→GeoJSON スクリプトで実データを変換（既存スクリプトを使用）
+- Firestore へ import（id 戦略は「既存 ID を流用 or 新規 GUID」いずれかで固定）
+- Firestore コレクション locations を先に作成し、最小 fields（id, name, lat, lng, type/description 程度）で登録
+- ルールは暫定で「認証必須 + locations 読み取り可、write は admin のみに制限」で開始
+
+ステップB: モバイル最小フローを組む（Expo 推奨）
+- Expo プロジェクト scaffold（mobile/）
+- Firebase Auth（メール/パスワード）＋ Firestore SDK を設定
+- 地図画面: MapLibre or react-native-maps で locations をマーカー表示（読み取りのみ）
+- 詳細画面: マーカータップで名称/description 程度を表示
+- visits 登録: result(enum) + note(optional) を POST して Firestore に 1 レコード作成
+- 最低限の環境切替 (.env や app.config) を用意
+
+ステップC: 管理者の最小機能
+- アプリ内で locations の追加/削除（名前・座標だけでよい）を admin のみ有効化
+- Firestore ルール: admin claim ありユーザーのみ locations write, visits read/write は認証ユーザーに限定（userId 強制）
+
+ステップD: テストと配布
+- 実データで動作確認（マーカー表示・visit 記録が通ること）
+- バックアップ: Firestore export を 1 回実行しておく（将来の定期化は後回し）
+- Expo でビルド/配布（EAS か Expo Go）してクライアント確認
+
+## 既存ロードマップ（フェーズ構成）
 前提（このロードマップの想定）
 - 入力: KMZ（KML を zip 圧縮したもの）を GeoJSON に変換 → Firestore に格納
 - フロントエンド: React Native（iOS/Android）で地図表示＋地点詳細閲覧（MVP）
@@ -82,4 +110,3 @@ Roadmap
 
 成果物
 - iOS/Android で動くアプリ（Expo URL またはビルド成果
-
