@@ -42,3 +42,4 @@ temp/
 # GeoJSON outputs (can be regenerated)
 output.geojson
 output_*.geojson
+keys/*.json
